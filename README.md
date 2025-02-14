@@ -1,7 +1,10 @@
-# 💫 Hi! I am Shubham 🤗 WELCOME to my Profile
-🔭 I’m currently working on simplebank https://github.com/SubhamMurarka/chat_app<br>🌱 I’m currently learning      Golang(mux,gin),Data Analysis,ML<br>💬 Ask me about                    Golang(mux,gin),Data Analysis,ML<br>📫 How to reach me              Shubh.mrk@gmail.com<br>⚡ Fun fact                               Want to learn everything 🤷
+I am a Backend Engineer passionate about system design, distributed systems, and scalable architectures. I specialize in building high-performance services using Golang, databases, and real-time communication technologies.
 
+I have developed scalable applications like a high-throughput URL shortener capable of handling billions of unique URLs and a real-time chat system leveraging Kafka and WebSockets. I also enjoy diving deep into OS-level optimizations, as seen in my parallel file encryption system and many more exciting projects properly documented just go through them.
 
+I worked as a Backend Developer Intern, where I built RESTful APIs, improved system performance using Fiber(Golang) and MongoDB, and wrote test cases to ensure reliability. I keep working on personal projects to explore new technologies and solve interesting problems—some of which you can find pinned below.
+
+I am constantly learning and exploring ways to scale and optimize backend services while sharing my learnings along the way.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShubhamMurarka) 
 
